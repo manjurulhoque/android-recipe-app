@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "107696525157",
+    "firebase_url": "https://myrecipes-928d5.firebaseio.com",
+    "project_id": "myrecipes-928d5",
+    "storage_bucket": "myrecipes-928d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107696525157:android:e7184d1cf5150c44",
+        "android_client_info": {
+          "package_name": "com.manjurulhoque.myrecipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107696525157-tsmvo7foeef5qd6fdmvtadn29jijsar4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manjurulhoque.myrecipes",
+            "certificate_hash": "b114d527cc97281348e87c3ae841180cff64ded5"
+          }
+        },
+        {
+          "client_id": "107696525157-6l77rl2t0mbtoj4vmefo7o39j15n3k74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLOLhRLfcz8oCMqy62PHPqGfeXpiGiEN8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107696525157-6l77rl2t0mbtoj4vmefo7o39j15n3k74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
